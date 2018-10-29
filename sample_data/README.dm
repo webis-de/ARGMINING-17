@@ -1,4 +1,4 @@
-These the format of the feature files in order
+The format of the feature files in order
 
 Token Label
 Token
