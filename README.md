@@ -1,2 +1,2 @@
-# unit-segmentation-of-argumentative-texts
-The repository for the paper, Unit Segmentation of Argumentative Texts. In ArgMining 2017
+# Unit Segmentation of Argumentative Texts
+The repository for the paper, [Unit Segmentation of Argumentative Texts](https://webis.de/publications.html#stein_2017q) at ArgMining 2017.
